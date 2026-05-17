@@ -282,5 +282,5 @@ flowchart TD
 ## 관련 문서
 
 - [IT 거버넌스 프레임워크](/docs/it-governance/it-strategy)
-- [데이터 거버넌스 및 프라이버시](./data-governance.md)
+- [데이터 거버넌스 및 프라이버시](/docs/it-governance/data-governance)
 - [정보보안 관리](/docs/information-security/infrastructure-security)

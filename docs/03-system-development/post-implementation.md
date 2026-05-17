@@ -270,6 +270,6 @@ flowchart TD
 
 ## 관련 문서
 
-- [형상 및 릴리스 관리](./configuration-release.md)
+- [형상 및 릴리스 관리](/docs/system-development/configuration-release)
 - [시스템 개발 생명주기](/docs/system-development/sdlc-devsecops)
 - [IT 거버넌스 프레임워크](/docs/it-governance/it-strategy)

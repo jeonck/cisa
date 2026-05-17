@@ -296,7 +296,7 @@ flowchart TD
 
 ## 관련 문서
 
-- [4.2 서비스 수준 및 운영 통제 (ITSM)](./itsm.md)
+- [4.2 서비스 수준 및 운영 통제 (ITSM)](/docs/it-operations/itsm)
 - [4.3 변경 및 패치 관리](/docs/it-operations/patch-change)
 - [4.5 IT 자산 및 구성 관리](/docs/it-operations/itam)
 - [3.1 데이터 분류 및 보호](/docs/it-governance/data-governance)

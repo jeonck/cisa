@@ -322,7 +322,7 @@ flowchart TB
 
 ## 관련 문서
 
-- [5.2 인프라 및 서버 보안 하드닝](./infrastructure-security.md)
-- [5.3 클라우드 및 가상화 보안 감사](./cloud-security.md)
+- [5.2 인프라 및 서버 보안 하드닝](/docs/information-security/infrastructure-security)
+- [5.3 클라우드 및 가상화 보안 감사](/docs/information-security/cloud-security)
 - [5.1 접근 통제 및 계정 관리](/docs/information-security/iam)
-- [5.5 침해사고 대응 및 디지털 포렌식](./incident-response.md)
+- [5.5 침해사고 대응 및 디지털 포렌식](/docs/information-security/incident-response)

@@ -267,5 +267,5 @@ flowchart TD
 ## 관련 문서
 
 - [시스템 개발 생명주기](/docs/system-development/sdlc-devsecops)
-- [사후 검토 및 평가](./post-implementation.md)
+- [사후 검토 및 평가](/docs/system-development/post-implementation)
 - [IT 운영 및 서비스 관리](/docs/it-operations/itsm)
