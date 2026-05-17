@@ -250,5 +250,5 @@ IAM 시스템을 활용한 SoD 위반 자동 탐지 방법:
 - [5.2 인프라 및 서버 보안](/docs/information-security/infrastructure-security)
 - [5.3 클라우드 보안](/docs/information-security/cloud-security)
 - [5.5 침해사고 대응](/docs/information-security/incident-response)
-- [4.3 변경 관리](/docs/it-operations/change-management)
-- [2.1 IT 거버넌스 프레임워크](/docs/it-governance/governance-framework)
+- [4.3 변경 관리](/docs/it-operations/patch-change)
+- [2.1 IT 거버넌스 프레임워크](/docs/it-governance/it-strategy)

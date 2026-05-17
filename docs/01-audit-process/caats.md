@@ -213,7 +213,7 @@ flowchart LR
 
 ## 관련 문서
 
-- [1.2 감사 계획 수립](/docs/01-audit-process/audit-planning)
-- [1.3 감사 수행 및 증거 수집](/docs/01-audit-process/audit-execution)
-- [1.5 보고 및 후속 조치](/docs/01-audit-process/reporting)
-- [5.1 IT 일반통제 감사](/docs/05-it-general-controls/itgc-overview)
+- [1.2 감사 계획 수립](/docs/audit-process/risk-based-planning)
+- [1.3 감사 수행 및 증거 수집](/docs/audit-process/audit-execution)
+- [1.5 보고 및 후속 조치](/docs/audit-process/reporting)
+- [5.1 IT 일반통제 감사](/docs/audit-toolkits/rcm)

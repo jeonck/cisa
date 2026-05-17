@@ -238,8 +238,8 @@ flowchart TD
 
 ## 관련 문서
 
-- [2.1 IT 거버넌스 프레임워크](/docs/it-governance/governance-framework)
+- [2.1 IT 거버넌스 프레임워크](/docs/it-governance/it-strategy)
 - [3.2 개발 프로세스 통제 (SDLC & DevSecOps)](/docs/system-development/sdlc-devsecops)
 - [3.4 사후 검토 및 평가 (PIR)](/docs/system-development/post-implementation)
-- [4.1 변경 관리 프로세스](/docs/it-operations/change-management)
-- [6.1 감사 절차 개요](/docs/audit-process/audit-procedures)
+- [4.1 변경 관리 프로세스](/docs/it-operations/patch-change)
+- [6.1 감사 절차 개요](/docs/audit-process/audit-execution)

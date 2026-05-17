@@ -238,5 +238,5 @@ flowchart LR
 - [1.2 리스크 기반 감사 계획](/docs/audit-process/risk-based-planning)
 - [1.3 감사 수행 및 증거 수집](/docs/audit-process/audit-execution)
 - [1.5 보고 및 후속 조치](/docs/audit-process/reporting)
-- [2.1 IT 거버넌스 프레임워크](/docs/it-governance/governance-framework)
-- [감사 도구 및 템플릿](/docs/audit-toolkits/audit-templates)
+- [2.1 IT 거버넌스 프레임워크](/docs/it-governance/it-strategy)
+- [감사 도구 및 템플릿](/docs/audit-toolkits/working-papers)

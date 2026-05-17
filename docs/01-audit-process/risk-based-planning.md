@@ -240,5 +240,5 @@ flowchart LR
 - [1.1 감사 헌장 및 표준](/docs/audit-process/audit-charter)
 - [1.3 감사 수행 및 증거 수집](/docs/audit-process/audit-execution)
 - [1.4 감사 데이터 분석 (CAATs)](/docs/audit-process/caats)
-- [2.2 IT 리스크 관리 프레임워크](/docs/it-governance/risk-management)
-- [5.1 정보보안 리스크 평가](/docs/information-security/risk-assessment)
+- [2.2 IT 리스크 관리 프레임워크](/docs/it-governance/frameworks)
+- [5.1 정보보안 리스크 평가](/docs/information-security/iam)

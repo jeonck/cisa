@@ -271,5 +271,5 @@ flowchart TD
 ## 관련 문서
 
 - [형상 및 릴리스 관리](./configuration-release.md)
-- [시스템 개발 생명주기](./sdlc.md)
-- [IT 거버넌스 프레임워크](../02-it-governance/it-governance-framework.md)
+- [시스템 개발 생명주기](/docs/system-development/sdlc-devsecops)
+- [IT 거버넌스 프레임워크](/docs/it-governance/it-strategy)

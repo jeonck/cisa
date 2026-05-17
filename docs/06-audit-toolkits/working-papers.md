@@ -319,4 +319,4 @@ flowchart LR
 
 - [6.1 RCM 라이브러리](./rcm)
 - [6.3 상시 모니터링 대시보드](./monitoring-dashboard)
-- [감사 보고서 작성 기준](../05-audit-process/reporting)
+- [감사 보고서 작성 기준](/docs/audit-process/reporting)

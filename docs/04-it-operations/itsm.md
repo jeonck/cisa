@@ -254,7 +254,7 @@ flowchart LR
 
 ## 관련 문서
 
-- [4.1 시스템 운영 통제](./system-operations.md)
-- [4.3 변경 및 패치 관리](./change-management.md)
+- [4.1 시스템 운영 통제](/docs/it-operations/itam)
+- [4.3 변경 및 패치 관리](/docs/it-operations/patch-change)
 - [4.4 BCP/DRP (비즈니스 연속성 및 재해 복구)](./bcp-drp.md)
-- [4.5 IT 자산 및 구성 관리](./asset-config-management.md)
+- [4.5 IT 자산 및 구성 관리](/docs/it-operations/itam)

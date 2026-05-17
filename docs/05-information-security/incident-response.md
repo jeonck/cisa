@@ -346,4 +346,4 @@ flowchart LR
 - [5.2 인프라 및 서버 보안 하드닝](./infrastructure-security.md)
 - [5.3 클라우드 및 가상화 보안 감사](./cloud-security.md)
 - [5.4 암호화 및 PKI](./cryptography.md)
-- [5.1 접근 통제 및 계정 관리](./access-control.md)
+- [5.1 접근 통제 및 계정 관리](/docs/information-security/iam)

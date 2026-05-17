@@ -278,6 +278,6 @@ graph TD
 
 - [2.2 글로벌 위험 관리 프레임워크](/docs/it-governance/frameworks) — COBIT 거버넌스 목표 상세
 - [2.3 IT 규제 및 컴플라이언스](/docs/it-governance/compliance) — SOX Section 404 ITGC 요건
-- [1.1 내부감사 기준 및 역할](/docs/audit-process/audit-standards) — CAE 역할 및 감사 독립성
-- [4.1 IT 운영 관리](/docs/it-operations/it-operations-management) — 운영 조직 구조
-- [5.1 정보보안 거버넌스](/docs/information-security/security-governance) — CISO 역할 및 보안 조직
+- [1.1 내부감사 기준 및 역할](/docs/audit-process/audit-charter) — CAE 역할 및 감사 독립성
+- [4.1 IT 운영 관리](/docs/it-operations/itsm) — 운영 조직 구조
+- [5.1 정보보안 거버넌스](/docs/information-security/iam) — CISO 역할 및 보안 조직

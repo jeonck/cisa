@@ -228,7 +228,7 @@ flowchart LR
 
 ## 관련 문서
 
-- [1.3 감사 수행 및 증거 수집](/docs/01-audit-process/audit-execution)
-- [1.4 감사 데이터 분석 (CAATs)](/docs/01-audit-process/caats)
-- [1.1 감사 거버넌스 및 윤리](/docs/01-audit-process/audit-governance)
-- [2.1 IT 거버넌스 프레임워크](/docs/02-governance/it-governance-framework)
+- [1.3 감사 수행 및 증거 수집](/docs/audit-process/audit-execution)
+- [1.4 감사 데이터 분석 (CAATs)](/docs/audit-process/caats)
+- [1.1 감사 거버넌스 및 윤리](/docs/audit-process/audit-charter)
+- [2.1 IT 거버넌스 프레임워크](/docs/it-governance/it-strategy)

@@ -259,5 +259,5 @@ flowchart TD
 ## 관련 문서
 
 - [IT 규제 및 컴플라이언스](./compliance.md)
-- [IT 거버넌스 프레임워크](./it-governance-framework.md)
-- [정보보안 관리](../04-information-security/security-management.md)
+- [IT 거버넌스 프레임워크](/docs/it-governance/it-strategy)
+- [정보보안 관리](/docs/information-security/infrastructure-security)

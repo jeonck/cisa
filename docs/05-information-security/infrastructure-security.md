@@ -305,7 +305,7 @@ flowchart TB
 
 ## 관련 문서
 
-- [5.1 접근 통제 및 계정 관리](./access-control.md)
+- [5.1 접근 통제 및 계정 관리](/docs/information-security/iam)
 - [5.3 클라우드 및 가상화 보안 감사](./cloud-security.md)
 - [5.4 암호화 및 PKI](./cryptography.md)
 - [5.5 침해사고 대응 및 디지털 포렌식](./incident-response.md)

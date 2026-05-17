@@ -432,5 +432,5 @@ flowchart LR
 
 - [6.2 감사 조서 표준 템플릿](./working-papers)
 - [6.3 상시 모니터링 대시보드](./monitoring-dashboard)
-- [4.1 접근 통제](../04-itgc/access-control)
-- [4.2 변경 관리](../04-itgc/change-management)
+- [4.1 접근 통제](/docs/information-security/iam)
+- [4.2 변경 관리](/docs/it-operations/patch-change)

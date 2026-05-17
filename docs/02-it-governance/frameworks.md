@@ -309,6 +309,6 @@ flowchart TD
 
 - [2.1 IT 전략 및 조직 구조](/docs/it-governance/it-strategy) — 거버넌스 조직과 COBIT EDM 연계
 - [2.3 IT 규제 및 컴플라이언스](/docs/it-governance/compliance) — SOX·GDPR과 프레임워크 연계
-- [5.2 위험 평가 방법론](/docs/information-security/risk-assessment) — NIST CSF 기반 위험 평가 실무
-- [1.3 위험 기반 감사 계획](/docs/audit-process/risk-based-audit) — 프레임워크 기반 감사 계획 수립
-- [6.1 감사 도구 및 자동화](/docs/audit-toolkits/audit-tools) — GRC 플랫폼 활용 프레임워크 관리
+- [5.2 위험 평가 방법론](/docs/information-security/iam) — NIST CSF 기반 위험 평가 실무
+- [1.3 위험 기반 감사 계획](/docs/audit-process/risk-based-planning) — 프레임워크 기반 감사 계획 수립
+- [6.1 감사 도구 및 자동화](/docs/audit-toolkits/rcm) — GRC 플랫폼 활용 프레임워크 관리

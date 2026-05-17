@@ -245,7 +245,7 @@ flowchart LR
 
 ## 관련 문서
 
-- [1.1 감사 거버넌스 및 윤리](/docs/01-audit-process/audit-governance)
-- [1.2 감사 계획 수립](/docs/01-audit-process/audit-planning)
-- [1.4 감사 데이터 분석 (CAATs)](/docs/01-audit-process/caats)
-- [1.5 보고 및 후속 조치](/docs/01-audit-process/reporting)
+- [1.1 감사 거버넌스 및 윤리](/docs/audit-process/audit-charter)
+- [1.2 감사 계획 수립](/docs/audit-process/risk-based-planning)
+- [1.4 감사 데이터 분석 (CAATs)](/docs/audit-process/caats)
+- [1.5 보고 및 후속 조치](/docs/audit-process/reporting)

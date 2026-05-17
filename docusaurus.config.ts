@@ -20,7 +20,7 @@ const config: Config = {
   projectName: REPO_NAME,
   trailingSlash: false,
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
 
   themes: ['@docusaurus/theme-mermaid'],
   markdown: { mermaid: true },

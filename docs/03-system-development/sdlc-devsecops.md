@@ -250,6 +250,6 @@ flowchart LR
 
 - [3.1 프로젝트 거버넌스 및 타당성](/docs/system-development/project-governance)
 - [3.3 형상 및 릴리스 관리](/docs/system-development/configuration-release)
-- [5.1 접근 통제 및 인증](/docs/information-security/access-control)
-- [5.3 취약점 관리](/docs/information-security/vulnerability-management)
-- [4.2 IT 운영 모니터링](/docs/it-operations/monitoring)
+- [5.1 접근 통제 및 인증](/docs/information-security/iam)
+- [5.3 취약점 관리](/docs/information-security/infrastructure-security)
+- [4.2 IT 운영 모니터링](/docs/it-operations/itsm)

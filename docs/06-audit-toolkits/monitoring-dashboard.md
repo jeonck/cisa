@@ -516,5 +516,5 @@ flowchart LR
 
 - [6.1 RCM 라이브러리](./rcm)
 - [6.2 감사 조서 표준 템플릿](./working-papers)
-- [4.1 접근 통제](../04-itgc/access-control)
-- [4.3 운영 및 백업](../04-itgc/operations-backup)
+- [4.1 접근 통제](/docs/information-security/iam)
+- [4.3 운영 및 백업](/docs/it-operations/bcp-drp)
