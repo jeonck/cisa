@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const GITHUB_USERNAME = 'jeonck';
-const REPO_NAME = 'claude-cisa';
+const REPO_NAME = 'cisa';
 const SITE_TITLE = 'CISA 지식베이스';
 const SITE_TAGLINE = '정보시스템 감사 전문가를 위한 실무 지식베이스';
 
